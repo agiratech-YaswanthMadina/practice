@@ -17,3 +17,5 @@ function switchOff() {
     document.getElementById("offSwitch").style.backgroundColor = "#e12d39";
     document.getElementById("onSwitch").style.backgroundColor = "#cbd2d9";
   }
+
+  
